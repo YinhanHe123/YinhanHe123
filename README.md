@@ -1,4 +1,4 @@
-Hi! This is Jonathan ^v^:
+Hi! This is Yinhan (Jonathan) ^v^:
 
 🔭 I'm a ECE Ph.D. candidate at the University of Virginia
 
