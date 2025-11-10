@@ -2,7 +2,7 @@ Hi! This is Jonathan ^v^:
 
 🔭 I'm a ECE Ph.D. candidate at the University of Virginia
 
-😄 I mainly work on large language models Post-training, Chain-of-Thought reasoning, and In-context learning
+😄 I mainly work on large language models post-training, chain-of-thought reasoning, and in-context learning
 
 <!--
 **YinhanHe123/YinhanHe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
