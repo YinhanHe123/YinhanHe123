@@ -1,6 +1,6 @@
 Hi! This is Yinhan (Jonathan) ^v^:
 
-🔭 I'm a ECE Ph.D. candidate at the University of Virginia
+🔭 I'm an ECE Ph.D. candidate at the University of Virginia
 
 😄 I mainly work on large language models post-training, chain-of-thought reasoning, and in-context learning
 
